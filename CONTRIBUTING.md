@@ -43,4 +43,4 @@ To report a **vulnerability**, please refer to the [SECURITY.md](./SECURITY.md) 
 
 ## 4. Support requests and miscellaneous
 
-For support requests or any other topics not related to the content of this repository, you can submit a post to the **ST Community** on the appropriate topic page.
+For support requests or any other topics not related to the content of this repository, you can submit a post to the **ST Community** on the appropriate topic [page](https://community.st.com/s/topiccatalog).
